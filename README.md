@@ -8,10 +8,10 @@
 
 ### 🎓 BTech in IT @ Government College of Engineering, Karad | GPA: 8.58/10.0
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/siddesh-dhanlobhe)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddesh-dhanlobhe-2ba3a4255/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://siddesh-portfolio-ten.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siddeshad112004@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/siddesh-dhanlobhe)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sidad112004)
 
 </div>
 
@@ -79,8 +79,8 @@ Intelligent platform leveraging Gemini AI and Inngest for automated task routing
 
 **Tech:** React • Redux • Node.js • MongoDB • AI Agents
 
-[![Code](https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github)](https://github.com/siddesh-dhanlobhe/task-tracker)
-[![Demo](https://img.shields.io/badge/Demo-YouTube-FF0000?style=flat-square&logo=youtube)](https://youtube.com/demo)
+[![Code](https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github)](https://github.com/sidad112004/task-tracker)
+[![Demo](https://img.shields.io/badge/Demo-YouTube-FF0000?style=flat-square&logo=youtube)](https://youtu.be/demo)
 
 </td>
 <td width="50%">
@@ -92,7 +92,7 @@ API generation platform with SSR achieving 95+ Real Experience Score on Vercel. 
 
 **Tech:** Next.js • TypeScript • Prisma • NeonDB
 
-[![Code](https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github)](https://github.com/siddesh-dhanlobhe/api-hub)
+[![Code](https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github)](https://github.com/sidad112004/api-hub)
 [![Live](https://img.shields.io/badge/Live-Demo-00C7B7?style=flat-square&logo=vercel)](https://api-hub-demo.vercel.app)
 
 </td>
@@ -107,7 +107,7 @@ Full-stack application managing 5000+ feedback entries with 90-95% ML-powered se
 
 **Tech:** React • Node.js • MongoDB • ML Models
 
-[![Code](https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github)](https://github.com/siddesh-dhanlobhe/reviewsense)
+[![Code](https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github)](https://github.com/sidad112004/reviewsense)
 
 </td>
 <td width="50%">
@@ -115,7 +115,7 @@ Full-stack application managing 5000+ feedback entries with 90-95% ML-powered se
 ### 🚀 More Projects Coming Soon...
 Check out my GitHub for more exciting projects!
 
-[![Explore](https://img.shields.io/badge/Explore-Repositories-2E9EF7?style=flat-square&logo=github)](https://github.com/siddesh-dhanlobhe?tab=repositories)
+[![Explore](https://img.shields.io/badge/Explore-Repositories-2E9EF7?style=flat-square&logo=github)](https://github.com/sidad112004?tab=repositories)
 
 </td>
 </tr>
@@ -126,12 +126,12 @@ Check out my GitHub for more exciting projects!
 ## 📊 GitHub Statistics
 
 <div align="center">
-  
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=siddesh-dhanlobhe&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=siddesh-dhanlobhe&theme=tokyonight&hide_border=true" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddesh-dhanlobhe&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=siddesh-dhanlobhe&theme=tokyo-night&hide_border=true&area=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sidad112004&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sidad112004&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidad112004&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=sidad112004&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
 
@@ -173,10 +173,10 @@ Check out my GitHub for more exciting projects!
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=siddesh-dhanlobhe&color=2E9EF7&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=sidad112004&color=2E9EF7&style=for-the-badge&label=PROFILE+VIEWS)
 
-[![GitHub Followers](https://img.shields.io/github/followers/siddesh-dhanlobhe?style=for-the-badge&color=2E9EF7&labelColor=1a1a1a)](https://github.com/siddesh-dhanlobhe?tab=followers)
-[![GitHub Stars](https://img.shields.io/github/stars/siddesh-dhanlobhe?style=for-the-badge&color=FFD700&labelColor=1a1a1a)](https://github.com/siddesh-dhanlobhe?tab=repositories)
+[![GitHub Followers](https://img.shields.io/github/followers/sidad112004?style=for-the-badge&color=2E9EF7&labelColor=1a1a1a)](https://github.com/sidad112004?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/sidad112004?style=for-the-badge&color=FFD700&labelColor=1a1a1a)](https://github.com/sidad112004?tab=repositories)
 
 </div>
 
@@ -186,19 +186,19 @@ Check out my GitHub for more exciting projects!
 
 <div align="center">
 
-<a href="https://linkedin.com/in/siddesh-dhanlobhe">
+<a href="https://www.linkedin.com/in/siddesh-dhanlobhe-2ba3a4255/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:siddeshad112004@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://leetcode.com/siddesh-dhanlobhe">
+<a href="https://leetcode.com/sidad112004">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
-<a href="https://www.codechef.com/users/siddesh_d">
+<a href="https://www.codechef.com/users/sidad112004">
   <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
 </a>
-<a href="https://auth.geeksforgeeks.org/user/siddesh">
+<a href="https://auth.geeksforgeeks.org/user/sidad112004">
   <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
 </a>
 
@@ -208,6 +208,6 @@ Check out my GitHub for more exciting projects!
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
-### ⭐️ From [Siddesh Dhanlobhe](https://github.com/siddesh-dhanlobhe)
+### ⭐️ From [Siddesh Dhanlobhe](https://github.com/sidad112004)
 
 </div>
