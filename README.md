@@ -1,18 +1,213 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>AI-powered full-stack web applications and scalable developer tools using React, Next.js, Node.js, and MongoDB.<br><br>👯 I’m looking to collaborate on<br>Open-source projects, backend systems, AI-integrated web apps, and DSA-focused problem-solving projects.<br><br>🤝 I’m looking for help with<br>System design, backend scalability, and advanced AI agent orchestration in real-world applications.<br><br>🌱 I’m currently learning<br>Advanced Data Structures & Algorithms, system design, and performance optimization in full-stack apps.<br><br>💬 Ask me about<br>DSA, competitive programming, React/Next.js, Node.js APIs, MongoDB, Prisma, and building end-to-end products.<br><br>⚡ Fun fact<br>I’ve solved 800+ DSA problems and still enjoy debugging more than writing fresh code 😄
+<div align="center">
 
+# 👋 Hello, I'm Siddesh Dhanlobhe
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_siddesh0101) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/siddeshad112004) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@SiddeshDhanlobhe) 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Problem+Solver+%F0%9F%A7%A9;AI+%26+Automation+Enthusiast+%F0%9F%A4%96;Open+Source+Contributor+%F0%9F%8C%9F)](https://git.io/typing-svg)
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sidad112004&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sidad112004&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sidad112004&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+
+### 🎓 BTech in IT @ Government College of Engineering, Karad | GPA: 8.58/10.0
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/siddesh-dhanlobhe)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siddeshad112004@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/siddesh-dhanlobhe)
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sidad112004&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+```javascript
+const siddesh = {
+    location: "Pune, Maharashtra, India",
+    education: "BTech in Information Technology",
+    currentFocus: ["AI Automation", "Full Stack Development", "System Design"],
+    interests: ["Problem Solving", "Competitive Programming", "Building Developer Tools"],
+    funFact: "Top 7% on LeetCode with 800+ problems solved! 🎯"
+};
+```
+
+> 💡 Passionate about building scalable applications that solve real-world problems. I love integrating AI into practical solutions and creating tools that enhance developer productivity.
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### 💻 Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+
+### 🤖 AI & Tools
+![Gemini AI](https://img.shields.io/badge/Gemini_AI-8E75B2?style=for-the-badge&logo=google&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</div>
+
+---
+
+## 🏆 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 Task Tracker
+**AI-Powered Task Management System**
+
+Intelligent platform leveraging Gemini AI and Inngest for automated task routing, priority assignment, and real-time analysis with 100% overdue escalation.
+
+**Tech:** React • Redux • Node.js • MongoDB • AI Agents
+
+[![Code](https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github)](https://github.com/siddesh-dhanlobhe/task-tracker)
+[![Demo](https://img.shields.io/badge/Demo-YouTube-FF0000?style=flat-square&logo=youtube)](https://youtube.com/demo)
+
+</td>
+<td width="50%">
+
+### 🔌 API Hub
+**Developer Tool Platform**
+
+API generation platform with SSR achieving 95+ Real Experience Score on Vercel. Used in 4+ production projects as a development tool.
+
+**Tech:** Next.js • TypeScript • Prisma • NeonDB
+
+[![Code](https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github)](https://github.com/siddesh-dhanlobhe/api-hub)
+[![Live](https://img.shields.io/badge/Live-Demo-00C7B7?style=flat-square&logo=vercel)](https://api-hub-demo.vercel.app)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📊 ReviewSense
+**Feedback Analysis Platform**
+
+Full-stack application managing 5000+ feedback entries with 90-95% ML-powered sentiment classification accuracy. Multiple data intake methods for flexible collection.
+
+**Tech:** React • Node.js • MongoDB • ML Models
+
+[![Code](https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github)](https://github.com/siddesh-dhanlobhe/reviewsense)
+
+</td>
+<td width="50%">
+
+### 🚀 More Projects Coming Soon...
+Check out my GitHub for more exciting projects!
+
+[![Explore](https://img.shields.io/badge/Explore-Repositories-2E9EF7?style=flat-square&logo=github)](https://github.com/siddesh-dhanlobhe?tab=repositories)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=siddesh-dhanlobhe&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=siddesh-dhanlobhe&theme=tokyonight&hide_border=true" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddesh-dhanlobhe&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=siddesh-dhanlobhe&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
+
+---
+
+## 🎯 Competitive Programming Achievements
+
+<div align="center">
+
+| Platform | Rating | Rank | Problems Solved |
+|:--------:|:------:|:----:|:---------------:|
+| ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black) | **1815** | **Top 6.98%** | **800+** |
+| ![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white) | **1664 ⭐⭐⭐** | **3 Star** | **300+** |
+| ![GeeksforGeeks](https://img.shields.io/badge/GFG-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white) | **530+** | - | **500+** |
+
+### 🏅 Contest Highlights
+- 🥇 **Global Rank 57** - CodeChef Starters 192 (Div 3)
+- 🥈 **Global Rank 1,518** - LeetCode Biweekly Contest 152
+- 📚 **70+ Contests** participated across platforms
+- ✅ **85% Score** - Spoken Tutorial Project (IIT Bombay)
+
+</div>
+
+---
+
+## 🌟 Leadership & Community
+
+<div align="center">
+
+### 👨‍💼 Head of DSA | Alpha Geeks College Coding Club
+
+> Led a **21-day DSA coding challenge** to enhance algorithmic skills across 100+ club members. Designed engaging problems and mentored participants throughout the event.
+
+</div>
+
+---
+
+## 📈 Profile Views & Activity
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=siddesh-dhanlobhe&color=2E9EF7&style=for-the-badge&label=PROFILE+VIEWS)
+
+[![GitHub Followers](https://img.shields.io/github/followers/siddesh-dhanlobhe?style=for-the-badge&color=2E9EF7&labelColor=1a1a1a)](https://github.com/siddesh-dhanlobhe?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/siddesh-dhanlobhe?style=for-the-badge&color=FFD700&labelColor=1a1a1a)](https://github.com/siddesh-dhanlobhe?tab=repositories)
+
+</div>
+
+---
+
+## 🤝 Let's Connect!
+
+<div align="center">
+
+<a href="https://linkedin.com/in/siddesh-dhanlobhe">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:siddeshad112004@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://leetcode.com/siddesh-dhanlobhe">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+<a href="https://www.codechef.com/users/siddesh_d">
+  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+</a>
+<a href="https://auth.geeksforgeeks.org/user/siddesh">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+</a>
+
+<br><br>
+
+### 💬 "Building the future, one commit at a time."
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+
+### ⭐️ From [Siddesh Dhanlobhe](https://github.com/siddesh-dhanlobhe)
+
+</div>
